@@ -1,6 +1,6 @@
 ### Olá! eu sou Eduardo Santiago 👋
 
-- 🔭 Hoje trabalho com vendas, administrando minha loja 
+- 🔭 Hoje trabalho com vendas, administrando meu próprio negócio
 - 🌱 Estudando React JS e Banco de dados 
 - 😄 ele/dele
 
