@@ -1,8 +1,9 @@
 ### Olá! eu sou Eduardo Santiago 👋
 
-- 🔭 Hoje trabalho com vendas, administrando meu próprio negócio
-- 🌱 Estudando React JS e Banco de dados 
-- 😄 ele/dele
+- Hoje trabalho com vendas, administrando meu próprio negócio
+- Software developer 2022, working mainly in JavaScript project
+- React.js (Next.js)
+- Node.js  (Nest.js)
 
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=EdSantiag0&show_icons=true&theme=tokyonight"/>
